@@ -1,0 +1,2 @@
+# Klajdi
+Llogaritja e kredise
